@@ -1,0 +1,4 @@
+env: "prod"
+grpc:
+  port: 5105
+  timeout: 10s 
